@@ -9,3 +9,4 @@ defaults:
     values:
       layout: "default"
 excerpt_separator: <!--excerpt-->
+theme: jekyll-theme-cayman
