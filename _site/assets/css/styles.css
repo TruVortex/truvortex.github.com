@@ -1,0 +1,15 @@
+body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; }
+
+.topnav { display: flex; justify-content: left; }
+
+.topnav a { float: left; color: black; padding: 8px 10px; text-align: center; text-decoration: none; font-size: 17px; flex-basis: 50px; }
+
+.topnav a:hover { font-weight: bold; }
+
+.topnav a.active { font-weight: bold; cursor: default; pointer-events: none; }
+
+h1 { font-weight: normal; }
+
+h1, h2, h3, h4, h5, h6, p { margin: 8px 10px; }
+
+/*# sourceMappingURL=styles.css.map */
