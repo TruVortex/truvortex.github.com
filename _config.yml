@@ -9,4 +9,9 @@ defaults:
     values:
       layout: "default"
 excerpt_separator: <!--excerpt-->
-theme: jekyll-theme-cayman
+markdown: kramdown
+highlighter: rouge
+kramdown:
+  input: GFM
+  auto_ids: true
+  syntax_highlighter: rouge
