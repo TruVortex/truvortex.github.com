@@ -8,8 +8,12 @@ body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; }
 
 .topnav a.active { font-weight: bold; cursor: default; pointer-events: none; }
 
+hr { margin-left: 12px; margin-right: 12px; }
+
 h1 { font-weight: normal; }
 
 h1, h2, h3, h4, h5, h6, p { margin: 8px 10px; }
+
+ul { margin: 0; }
 
 /*# sourceMappingURL=styles.css.map */

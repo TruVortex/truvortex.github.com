@@ -3,4 +3,4 @@ title: About
 ---
 # About
 
-This is my website where I do stuff.
+This is my new website which I will use to blog about competitive programming and math with.

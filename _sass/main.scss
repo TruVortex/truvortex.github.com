@@ -27,10 +27,19 @@ body {
     pointer-events: none;
 }
 
+hr {
+    margin-left: 12px;
+    margin-right: 12px;
+}
+
 h1 {
     font-weight: normal;
 }
 
 h1, h2, h3, h4, h5, h6, p {
     margin: 8px 10px;
+}
+
+ul {
+    margin: 0;
 }
